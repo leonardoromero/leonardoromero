@@ -3,19 +3,19 @@
 
 <h1 align="center">Hello, I'm Leo</h1>
 <h3 align="center">Tech recruiter, web designer and developer from Argentina 🇦🇷🧉</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://github.com/leonardoromero/leonardoromero/blob/main/Web%20Developer_Monochromatic.png">
 
 - 🔭 I’m currently working on [Mariano Kowal's landing page](https://marianokowal.com.ar)
 
-- 🌱 I’m currently learning **React**
+- ✨ I'm currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://leoromero.netlify.app](https://leoromero.netlify.app)
+- 👨‍💻 All of my projects are available in [my portfolio](https://leoromero.netlify.app)
 
-- 📫 How to reach me **leonardorommero@gmail.com**
+- 📫 You can reach me at **leonardorommero@gmail.com**
 
-- 📝 Know about my experiences [https://www.linkedin.com/in/romeroleonardojav/](https://www.linkedin.com/in/romeroleonardojav/)
+- 📝 Know about my experiences in my [LinkedIn Profile](https://www.linkedin.com/in/romeroleonardojav/)
 
-- ⚡ Fun fact **Cat lover and vegetarian 🐱🌱**
+- ⚡ Fun fact -> **Cat lover and vegetarian 🐱🌱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
