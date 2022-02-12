@@ -1,7 +1,7 @@
 
 [![MasterHead](https://github.com/leonardoromero/leonardoromero/blob/main/github-header.png)](https://leoromero.netlify.app)
 
-<h1 align="center">Hello, I'm Leo</h1>
+<h1 align="center">Hello, I'm Leo! 👋</h1>
 <h3 align="center">Tech recruiter, web designer and developer from Argentina 🇦🇷🧉</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/leonardoromero/leonardoromero/blob/main/Web%20Developer_Monochromatic.png">
 
